@@ -11,3 +11,5 @@ request.send();
 
 
 console.log(data.name_cz);
+
+document.write(data.name_cz);
