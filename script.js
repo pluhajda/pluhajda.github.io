@@ -1,4 +1,4 @@
-var requestURL = 'https://api.abalin.net/get/today?country=cz'; // locates where data about current name holiday are stored
+var requestURL = 'http://cors.io/?https://api.abalin.net/get/today?country=cz'; // locates where data about current name holiday are stored
 
 var request = new XMLHttpRequest();
 
