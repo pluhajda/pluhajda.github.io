@@ -12,3 +12,5 @@ request.onload = function () {
     var svatky = request.response;
     console.log(data.name_cz);
 }
+
+document.getElementById('odstavec').innerHTML = '1';
